@@ -14,9 +14,16 @@ Helena Lee | Jan Vincent Villanueva
 
 We prototyped an application to showcase an AI solution that helps users find similar cars based on uploaded car images. The goal was to build an application capable of recognizing motor vehicles, with an added bonus distinguished between certain types of vehicles (e.g., sedans vs. hatchbacks) using a cloud-based AI service on Microsoft Azure.
 
+
+<div align="center">
+
+https://github.com/HelenaMission/Car-Finder-With-Azure-Machine-Training/assets/132238788/296ea101-f761-4c83-b3ee-c1c111ba6194
+
+</div>
+
 ## Completed Tasks
 
-### Task 1: Built an Application for Recognizing Similar Cars
+### Task : Built an Application for Recognizing Similar Cars
 
 - Developed an application that allows users to upload car images and utilizes a cloud-based AI service on Microsoft Azure to recognize and find similar cars in stock.
 
